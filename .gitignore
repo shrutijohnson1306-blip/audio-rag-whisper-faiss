@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+audio_index/
+chunks.pkl
+*.index
+*.mp3
